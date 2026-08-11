@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <carparkData>
-	<carpark name="Paul St. Cark" spaces="Closed"> </carpark>
+	<carpark name="Paul St." spaces="200"> </carpark>
 	<carpark name="North Main St." spaces="216"> </carpark>
 	<carpark name="City Hall" spaces="617"> </carpark>
 	<carpark name="Carrolls Quay" spaces="218"> </carpark>
