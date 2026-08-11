@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<carparkData>
+	<carpark name="Paul St. Cark" spaces="Closed"> </carpark>
+	<carpark name="North Main St." spaces="216"> </carpark>
+	<carpark name="City Hall" spaces="617"> </carpark>
+	<carpark name="Carrolls Quay" spaces="218"> </carpark>
+	<carpark name="Grand Parade" spaces="59"> </carpark>
+	<carpark name="Patricks Quay" spaces="290"> </carpark>
+	<carpark name="St. Finbarrs" spaces="156"> </carpark>
+	<carpark name="Merchants Quay" spaces="29"> </carpark>
+	<Timestamp>15:07:16 on Tuesday 20/07/2015</Timestamp>
+</carparkData>
